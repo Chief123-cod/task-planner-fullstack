@@ -1,4 +1,4 @@
-const API_URL = 'https://vercel.com/chief123-s-projects/task-planner-fullstack';
+const API_URL = 'https://task-planner-fullstack.vercel.app';
 
 // --- TASKS API ---
 export const fetchTasks = async () => {
