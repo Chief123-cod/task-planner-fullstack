@@ -1,5 +1,6 @@
 # Mengabaikan dependencies
 node_modules/
+.vscode
 
 # Mengabaikan file environment
 .env
